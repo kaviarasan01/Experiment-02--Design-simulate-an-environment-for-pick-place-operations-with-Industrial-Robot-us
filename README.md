@@ -32,40 +32,11 @@ Inspection – Pick and place robots used for inspection applications are equipp
 
 
 ### PROGRAM 
+
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+### OUTPUT:
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/03530b1a-3ca4-4b41-aafb-f3d9aae51772" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+### RESULTS : 
+Thus, the pick and place of the given target simulated Using Robo DK.
